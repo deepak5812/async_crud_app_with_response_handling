@@ -1,0 +1,1 @@
+docker run --rm -p 5432:5432 -e POSTGRES_PASSWORD=deepak -e POSTGRES_USER=deepak -e POSTGRES_DB=deepak postgres:latest
